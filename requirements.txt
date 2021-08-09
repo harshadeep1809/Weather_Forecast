@@ -1,0 +1,12 @@
+pandas==1.2.4
+dash_table==4.9.0
+dash_html_components==1.0.3
+tqdm==4.55.1
+dash_core_components==1.10.2
+Keras==2.4.3
+plotly==4.9.0
+dash==1.14.0
+dash_bootstrap_components==0.13.0
+numpy==1.19.5
+gunicorn==19.7.1
+tensorflow-cpu==2.6.0rc1    
