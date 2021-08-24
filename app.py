@@ -3,8 +3,8 @@ model = load_model(r'model.h5',compile=True)
 
 import keras
 import pandas as pd
-dd = pd.read_csv("https://raw.githubusercontent.com/Nibs007/LSTM/main/ValFeatures.csv")
-y = pd.read_csv("https://raw.githubusercontent.com/Nibs007/LSTM/main/ValLabels.csv")
+dd = pd.read_csv("https://raw.githubusercontent.comharshadeep1809/Time_Series_Weather_Forecast/main/ValFeatures.csv")
+y = pd.read_csv("https://raw.githubusercontent.com/harshadeep1809/Time_Series_Weather_Forecast/main/ValLabels.csv")
 import numpy as np
 batch_size = 256
 
